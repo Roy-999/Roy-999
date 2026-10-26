@@ -18,7 +18,7 @@ I build systems that extract information, retrieve knowledge, take action,
 and support decisions—with the APIs, deployment, and monitoring needed
 to make them useful.
 
-## 🧠 What I bring to the build
+## What I bring to the build
 
 | The challenge | What I build |
 |---|---|
@@ -31,7 +31,7 @@ to make them useful.
 I've also worked on small-model fine-tuning for handwritten prescriptions
 and voice workflows that register cases in Microsoft Dynamics 365.
 
-## 🔨 On my workbench
+## On my workbench
 
 ### RoleLens · In progress
 An AI recruiting workbench that takes resumes and job descriptions
@@ -56,7 +56,7 @@ planning decision.
 I'm turning selected patterns from my professional work into public
 demos using synthetic and openly available data.
 
-## ⚙️ My toolkit
+## My toolkit
 
 **Build**
 `Python` `SQL` `FastAPI` `REST APIs` `pandas`
