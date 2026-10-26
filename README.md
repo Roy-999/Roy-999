@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Swapnil (or "Roy" if you can't pronounce it 😉) 👋</h1>
+<h1 align="center">Hey, I'm Swapnil (or "Roy" since it sounds cooler 😉) 👋</h1>
 
 <h3 align="center">
 I turn messy inputs into working AI systems.
